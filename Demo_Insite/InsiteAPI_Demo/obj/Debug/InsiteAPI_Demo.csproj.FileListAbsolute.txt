@@ -1,0 +1,9 @@
+C:\Testing\InsiteAPI_Deno\InsiteAPI_Deno\bin\Debug\InsiteAPI_Deno.dll
+C:\Testing\InsiteAPI_Deno\InsiteAPI_Deno\bin\Debug\InsiteAPI_Deno.pdb
+C:\Testing\InsiteAPI_Deno\InsiteAPI_Deno\bin\Debug\Newtonsoft.Json.dll
+C:\Testing\InsiteAPI_Deno\InsiteAPI_Deno\bin\Debug\RestSharp.dll
+C:\Testing\InsiteAPI_Deno\InsiteAPI_Deno\bin\Debug\Newtonsoft.Json.pdb
+C:\Testing\InsiteAPI_Deno\InsiteAPI_Deno\bin\Debug\Newtonsoft.Json.xml
+C:\Testing\InsiteAPI_Deno\InsiteAPI_Deno\bin\Debug\RestSharp.xml
+C:\Testing\InsiteAPI_Deno\InsiteAPI_Deno\obj\Debug\InsiteAPI_Deno.dll
+C:\Testing\InsiteAPI_Deno\InsiteAPI_Deno\obj\Debug\InsiteAPI_Deno.pdb

@@ -1,0 +1,13 @@
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\UnitTest.dll
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\UnitTest.pdb
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\InsiteAPI_Deno.dll
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\RestSharp.dll
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\InsiteAPI_Deno.pdb
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\RestSharp.xml
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Testing\InsiteAPI_Deno\UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Testing\InsiteAPI_Deno\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Testing\InsiteAPI_Deno\UnitTest\obj\Debug\UnitTest.dll
+C:\Testing\InsiteAPI_Deno\UnitTest\obj\Debug\UnitTest.pdb
